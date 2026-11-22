@@ -27,6 +27,9 @@ identifiers:
   - type: url
     value: "https://www.highlevelmkt.com/relatorios/custo-pedido-orcamento-google-obras-2026"
     description: "Relatório (fonte principal)"
+  - type: url
+    value: "https://www.wikidata.org/wiki/Q142244196"
+    description: "Ficha do conjunto de dados na Wikidata"
 keywords:
   - dados abertos
   - Google Ads

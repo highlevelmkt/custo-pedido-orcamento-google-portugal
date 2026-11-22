@@ -8,6 +8,7 @@ Dados abertos de um estudo da High Level Marketing (HLM): investimento, cliques 
 
 - **Relatório (fonte principal):** https://www.highlevelmkt.com/relatorios/custo-pedido-orcamento-google-obras-2026
 - **DOI (Zenodo):** [10.5281/zenodo.24440890](https://doi.org/10.5281/zenodo.24440890) (edição n.º 1). Todas as versões: [10.5281/zenodo.24440889](https://doi.org/10.5281/zenodo.24440889).
+- **Wikidata:** [Q142244196](https://www.wikidata.org/wiki/Q142244196)
 - **Licença dos dados:** CC BY 4.0 (ver `LICENSE`). Pode usar, adaptar e republicar, desde que cite a fonte.
 - **Como citar:** «High Level Marketing, dados de 8 contas de Google Ads em Portugal, 24/07–21/10/2026», com o link para o relatório. O botão *Cite this repository* do GitHub dá a referência pronta (ficheiro `CITATION.cff`).
 
