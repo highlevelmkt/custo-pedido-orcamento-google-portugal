@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+<title>Quanto custa um pedido de orçamento no Google para obras e serviços</title>
+<defs><pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#26262c" opacity=".5"/></pattern>
+<radialGradient id="gl" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#9810fa" stop-opacity=".4"/><stop offset="1" stop-color="#9810fa" stop-opacity="0"/></radialGradient></defs>
+<style>.c{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}@media (prefers-reduced-motion:reduce){.c{animation:none}}</style>
+<rect width="1200" height="430" rx="16" fill="#0a0a0b"/>
+<rect y="38" width="1200" height="360" fill="url(#g)"/>
+<circle cx="1050" cy="120" r="260" fill="url(#gl)"/>
+<path d="M16 .5h1168a15.5 15.5 0 0 1 15.5 15.5v22H.5V16A15.5 15.5 0 0 1 16 .5z" fill="#111114"/>
+<line x1="0" y1="38" x2="1200" y2="38" stroke="#26262c"/>
+<circle cx="24" cy="19" r="6" fill="#4a4a52"/><circle cx="44" cy="19" r="6" fill="#4a4a52"/><circle cx="64" cy="19" r="6" fill="#9810fa"/>
+<text x="600" y="24" text-anchor="middle" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b8b94">highlevelmkt / dados abertos</text>
+<text x="40" y="80" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#f4f4f5"><tspan fill="#c27aff">$</tspan> cat dados/edicao-01/custo-por-nicho.csv<tspan class="c" fill="#c27aff">█</tspan></text>
+<text x="40" y="128" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="2" fill="#c27aff">ESTUDO HLM · GOOGLE ADS · PORTUGAL 2026</text>
+<text x="38" y="180" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="44" letter-spacing="-1" fill="#f4f4f5">Quanto custa um pedido de orçamento</text>
+<text x="38" y="230" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="44" letter-spacing="-1" fill="#f4f4f5">no Google para obras e serviços</text>
+<g transform="translate(40 262)"><rect width="270" height="96" rx="12" fill="#111114" stroke="#26262c"/>
+<text x="20" y="50" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="34" fill="#c27aff">14,28 €</text>
+<text x="20" y="76" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b8b94">por pedido · obras (4 contas)</text></g><g transform="translate(325 262)"><rect width="270" height="96" rx="12" fill="#111114" stroke="#26262c"/>
+<text x="20" y="50" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="34" fill="#f4f4f5">10,45 €</text>
+<text x="20" y="76" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b8b94">por pedido · 8 contas</text></g><g transform="translate(610 262)"><rect width="270" height="96" rx="12" fill="#111114" stroke="#26262c"/>
+<text x="20" y="50" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="34" fill="#f4f4f5">87 %</text>
+<text x="20" y="76" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b8b94">dos pedidos por WhatsApp</text></g><g transform="translate(895 262)"><rect width="270" height="96" rx="12" fill="#111114" stroke="#26262c"/>
+<text x="20" y="50" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="34" fill="#f4f4f5">1,36 €</text>
+<text x="20" y="76" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b8b94">por clique · 8 contas</text></g>
+<path d="M.5 398h1199v16a15.5 15.5 0 0 1-15.5 15.5H16A15.5 15.5 0 0 1 .5 414z" fill="#9810fa"/>
+<text x="22" y="419" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#fff" xml:space="preserve">8 contas · 24/07–21/10/2026 · Google Ads API (só leitura)</text>
+<text x="1178" y="419" text-anchor="end" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#fff">CC BY 4.0 · High Level Marketing</text>
+</svg>

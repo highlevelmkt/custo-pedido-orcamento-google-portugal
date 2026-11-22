@@ -1,0 +1,6 @@
+grupo,contas,investimento_eur,cliques,pedidos,custo_por_pedido_eur,custo_por_clique_eur,cliques_com_pedido_pct,mediana_por_conta_eur
+obras,4,457.03,315,32,14.28,1.45,10.2,18.01
+eletricistas,2,770.12,504,72,10.70,1.53,14.3,13.28
+limpezas,2,183.48,221,31,5.92,0.83,14.0,10.49
+obras_e_eletricistas,6,1227.15,819,104,11.80,1.50,12.7,18.01
+todas,8,1410.64,1040,135,10.45,1.36,13.0,16.63

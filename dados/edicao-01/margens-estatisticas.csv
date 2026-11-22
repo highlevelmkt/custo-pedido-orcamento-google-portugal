@@ -1,0 +1,6 @@
+grupo,cliques_com_pedido_pct,ic95_inferior_pct,ic95_superior_pct,custo_por_pedido_eur,custo_por_pedido_margem_inferior_eur,custo_por_pedido_margem_superior_eur
+obras,10.2,7.3,14.0,14.28,10.37,19.91
+eletricistas,14.3,11.5,17.6,10.70,8.68,13.29
+limpezas,14.0,10.1,19.2,5.92,4.32,8.25
+obras_e_eletricistas,12.7,10.6,15.2,11.80,9.89,14.15
+todas,13.0,11.1,15.2,10.45,8.95,12.25

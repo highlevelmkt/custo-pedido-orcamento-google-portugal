@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "Se usar estes dados, cite-os assim. / If you use this dataset, please cite it as below."
+type: dataset
+title: "Quanto custa um pedido de orçamento no Google para empresas de obras e serviços em Portugal (2026)"
+version: "1.0.0"
+date-released: 2026-11-22
+authors:
+  - name: "High Level Marketing (HLM)"
+    city: "São Domingos de Rana (Cascais)"
+    country: PT
+    website: "https://www.highlevelmkt.com"
+    email: "geral@highlevelmkt.com"
+  - family-names: "Oliveira"
+    given-names: "Vinicius"
+    affiliation: "High Level Marketing (HLM)"
+license: CC-BY-4.0
+url: "https://www.highlevelmkt.com/relatorios/custo-pedido-orcamento-google-obras-2026"
+repository-code: "https://github.com/highlevelmkt/custo-pedido-orcamento-google-portugal"
+identifiers:
+  - type: url
+    value: "https://www.highlevelmkt.com/relatorios/custo-pedido-orcamento-google-obras-2026"
+    description: "Relatório (fonte principal)"
+keywords:
+  - dados abertos
+  - Google Ads
+  - custo por lead
+  - custo por clique
+  - pedidos de orçamento
+  - construção
+  - remodelação
+  - WhatsApp
+  - Portugal
+  - small businesses
+  - cost per lead
+abstract: >-
+  Investimento, cliques e pedidos de orçamento medidos em 8 contas de Google
+  Ads (campanhas de Pesquisa) de pequenas empresas de obras e serviços ao
+  domicílio em Portugal, de 24/07 a 21/10/2026. Obras: 14,28 € por pedido;
+  8 contas: 10,45 € por pedido e 1,36 € por clique; 87 % dos pedidos foram
+  cliques no WhatsApp do site. Dados agregados, sem nomes de clientes.
